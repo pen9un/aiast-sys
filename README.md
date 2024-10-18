@@ -18,7 +18,7 @@
 
 微信交流群（见群公告）：
 
-<img src="resource/image/wechat_group.jpg" alt="douyin" style="zoom: 50%;" />
+<img src="resource/image/wechat_group.png" alt="douyin" style="zoom: 50%;" />
 
 ## 🔮系统介绍
 
