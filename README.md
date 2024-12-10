@@ -16,9 +16,11 @@
 
 开放系统，免费使用，支持API接口外部调用。如需了解更多，请进微信群，如有问题请联系管理员。
 
-微信交流群（见群公告）：
+**使用见群公告和系统使用手册。**请先详阅群公告和系统使用手册，后有问题再在交流群沟通。
 
-<img src="resource/image/wechat_group.png" alt="douyin" style="zoom: 50%;" />
+扫下方微信二维码或微信号 **idtkw1m** 加机器人进群 ，需填写好友验证消息 **AIAST智能客服系统**，否则机器人不会通过。
+
+<img src="resource/image/wechat_bot.jpg" alt="douyin" style="zoom: 50%;" />
 
 ## 🔮系统介绍
 
