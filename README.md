@@ -20,7 +20,7 @@
 
 扫下方微信二维码或微信号 **idtkw1m** 加机器人进群 ，需填写好友验证消息 **AIAST智能客服系统**，否则机器人不会通过。
 
-<img src="resource/image/wechat_bot.jpg" alt="douyin" style="zoom: 50%;" />
+<img src="resource/image/wechat_bot.jpg" alt="douyin" width="300px" />
 
 ## 🔮系统介绍
 
@@ -54,7 +54,7 @@ AIAST（AI Assistant）智能客服系统，服务于企业、客服、电商等
 
 管理员或其他用户在后台转换话术数据为知识库文件数据或导入企业知识库后，同时打开知识库管理中的知识库客服对话开关，即可在客服系统中使用知识库智能对话功能。
 
-![image-20240130213824043](./resource/image/image-20240130213824043.png)
+<img src="./resource/image/image-20240130213824043.png" alt="image-20240130213824043" width="300px" />
 
 ### ChatGPT 智能对话
 
@@ -62,21 +62,21 @@ AIAST（AI Assistant）智能客服系统，服务于企业、客服、电商等
 
 ChatGPT智能对话示例：
 
-![image-20240709014828781](./resource/image/image-20240709014828781.png)
+<img src="./resource/image/image-20240709014828781.png" alt="image-20240709014828781" width="300px" />
 
 ### 企业话术对话
 
 ### 话术数据展示
 
-![image-20240130212751065](./resource/image/image-20240130212751065.png)
+<img src="./resource/image/image-20240130212751065.png" alt="image-20240130212751065" width="300px" />
 
 ### 查看检索话术数据
 
-![image-20240130212908532](./resource/image/image-20240130212908532.png)
+<img src="./resource/image/image-20240130212908532.png" alt="image-20240130212908532" width="300px" />
 
 ### 发送到聊天对话框
 
-![image-20240130212927012](./resource/image/image-20240130212927012.png)
+<img src="./resource/image/image-20240130212927012.png" alt="image-20240130212927012" width="300px" />
 
 ### 复制转发话术
 
