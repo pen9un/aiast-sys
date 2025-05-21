@@ -18,9 +18,9 @@
 
 **使用见群公告和系统使用手册。** 请先详阅群公告和系统使用手册，后有问题再在交流群沟通。
 
-扫下方微信二维码或微信号 **idtkw1m** 加机器人进群 ，需填写好友验证消息 **AIAST智能客服系统**，否则机器人不会通过。
+**微信交流群**（如二维码失效请点 **Star** 耐心等候或提 [Issues](https://github.com/pen9un/aiast-sys/issues) ，会在第一时间更新二维码。进群后先看群公告，如有需要加群管理员，需备注 **AIAST智能客服系统** 并说明加好友原因）：
 
-<img src="resource/image/wechat_bot.jpg" alt="douyin" width="300px" />
+<img src="resource/image/wechat_group.png" alt="douyin" width="300px" />
 
 ## 🔮系统介绍
 
